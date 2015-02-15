@@ -1,6 +1,6 @@
 # [Karma](https://karma-runner.github.io) Playground
 
-Project to learn and experiment with Karma test runner.
+Project to learn and experiment with the Karma javascript test runner.  Karma runs your javascript tests in multiple browsers.
 
 
 ## Quickstart Tutorial
